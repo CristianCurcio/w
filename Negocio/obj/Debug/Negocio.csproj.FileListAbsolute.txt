@@ -1,0 +1,12 @@
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\bin\Debug\Negocio.dll
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\bin\Debug\Datos.dll
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\bin\Debug\Entidades.dll
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\bin\Debug\Datos.pdb
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\obj\Debug\Negocio.dll
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,9 @@
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\bin\Debug\Datos.dll
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\bin\Debug\Datos.pdb
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\bin\Debug\Entidades.dll
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\bin\Debug\Entidades.pdb
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\obj\Debug\Datos.dll
+C:\Users\crist\Desktop\kirbi\TPI en 3 capas - copia\Datos\obj\Debug\Datos.pdb
